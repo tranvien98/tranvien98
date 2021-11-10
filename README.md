@@ -5,11 +5,10 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://github.com/tranvien98" target="blank"><img align="center" src="https://user-images.githubusercontent.com/48142689/99891123-13477280-2c99-11eb-8a5d-e79cb8896d28.gif" height="30" width="40" /></a>
 
-
-<a href="https://www.facebook.com/tran.vien.2509" target="blank"><img align="center" src="https://i.imgur.com/mWO1ozE.png" height="30" width="40" /></a>
-
+* <a href="https://github.com/tranvien98" target="blank"><img align="center" src="https://user-images.githubusercontent.com/48142689/99891123-13477280-2c99-11eb-8a5d-e79cb8896d28.gif" height="20" width="20" /> Github</a>
+* <a href="https://www.facebook.com/tran.vien.2509" target="blank"><img align="center" src="https://i.imgur.com/mWO1ozE.png" height="20" width="20" /> Facebook</a> 
+* :mailbox_with_mail: tranvanvien98bg@gmail.com
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/tranvien98?tab=repositories&q=&type=&language=python)
@@ -20,8 +19,9 @@
 ### Framework
 
 * 🗣 Tensorflow | Keras | Pytorch
+* <img height="15" width="15" src="https://svgshare.com/i/9oy.svg" /> Flask
 * 🖇️ OpenCV | Pillow
-* 🛢️ MySQL
+* 🛢️ MySQL | Mongodb
 * :octocat: Git | Github
 
 
