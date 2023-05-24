@@ -1,6 +1,9 @@
-### Hi there 👋
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Vien 👨‍💻
-- 👨🏻‍💻 I'm studying at Ha Noi University Of Science And Technology.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8F!!!;I'm+Tran+Vien%F0%9F%8E%89" alt="Typing SVG" /></a>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+👨🏻‍💻 Education: Hanoi University of Science and Technology
 
 
 <p align="left">
@@ -9,12 +12,6 @@
 * <a href="https://github.com/tranvien98" target="blank">![Github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=000000)</a>
 * <a href="https://www.facebook.com/tran.vien.2509" target="blank">![FB](https://img.shields.io/badge/-facebook-fff?&logo=facebook&logoColor=4169e1)</a> 
 * <a href="tranvanvien98bg@gmail.com" target="blank">![mail](https://img.shields.io/badge/-gmail-fff?&logo=gmail&logoColor=ff4500) </a>
-
-### Languages
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/tranvien98?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/tranvien98?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/tranvien98?tab=repositories&q=&type=&language=java)
-[![Php](https://img.shields.io/badge/-Php-fff?&logo=Php&logoColor=007396)](https://github.com/tranvien98?tab=repositories&q=&type=&language=Php)
 
 ### Framework
 
@@ -25,4 +22,7 @@
 ![github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=000000)
 
 
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=tranvien98&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranvien98&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<p align="center">
+<!--   <div align="center"><img src="https://github.com/tranvien98/tranvien98/blob/main/avatar_git.png?raw=true" width="350"></div> -->
+  <div align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=tranvien98&show_icons=true&count_private=true&theme=solarized-dark"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranvien98&hide=javascript,css,scss,html&layout=compact&theme=solarized-dark" /></div>
+</p>
